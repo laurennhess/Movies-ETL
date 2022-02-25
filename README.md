@@ -14,4 +14,5 @@
 #### To ensure that our data was properly loaded into the SQL database, we ran two queries -- 1) on the movies table and 2) on the ratings table.
 <img width="464" alt="movies_query" src="https://user-images.githubusercontent.com/94096530/155758250-2b38ef09-00c1-454d-9af7-a337cd53042b.png">
 <img width="462" alt="ratings_query" src="https://user-images.githubusercontent.com/94096530/155758256-189cfe8d-245f-4a16-9e64-2b8f948843bb.png">
+
 #### We can see that the COUNT returned the correct amount of entries per table, this our data was sucessfully loaded to our database.
